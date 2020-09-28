@@ -10,6 +10,7 @@ I scraped bunch of images from different websites and then resized them to 128x1
 
 # Here's the Generated output
 ![final image](https://github.com/jaychandra6/sharinGAN/blob/master/static/final.png)
+![final image](https://github.com/jaychandra6/sharinGAN/blob/master/static/297.jpg)
 
 # Why did I write this code?
 I started learning PyTorch from the past 10 days. Fortunately, I found a very intuitve playlist on YouTube by deeplizar. Honestly, those videos are dope. [Here's the link.](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) I wanted to test out with something interesting.
