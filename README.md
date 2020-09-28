@@ -8,6 +8,9 @@ A Generative Adversarial Network implementation that generates Sharingans. This 
 # Dataset
 I scraped bunch of images from different websites and then resized them to 128x128 size. This dataset consists of 56 images and this was the reason why it took 10 minutes to train.
 
+# Here's the Generated output
+![final image](https://github.com/jaychandra6/sharinGAN/blob/master/final.jpg?raw=true)
+
 # Why did I write this code?
 I started learning PyTorch from the past 10 days. Fortunately, I found a very intuitve playlist on YouTube by deeplizar. Honestly, those videos are dope. [Here's the link.](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) I wanted to test out with something interesting.
 
