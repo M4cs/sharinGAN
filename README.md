@@ -24,6 +24,9 @@ I then trained the GAN with FashionMNIST dataset and got pretty good results in 
 
 Honestly, if I did not find these YouTube videos, I would've never implemented this code. Huge shoutout to them.
 Credits to these guys:
+
 [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
+
 [AngryCoder](https://www.youtube.com/channel/UCta6mmYG1NLeDeFFaLP2eug)
+
 [Ayush Chaurasia](https://www.youtube.com/c/AyushChaurasia)
