@@ -5,6 +5,12 @@ A Generative Adversarial Network implementation that generates Sharingans. This 
 - PyTorch
 - numpy
 
+or just run the following command
+```
+pip install -r requirements.txt
+```
+
+
 # Dataset
 I scraped bunch of images from different websites and then resized them to 128x128 size. This dataset consists of 56 images and this was the reason why it took 10 minutes to train.
 
