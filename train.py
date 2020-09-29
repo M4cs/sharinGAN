@@ -80,7 +80,7 @@ dataset = load_images()
 if torch.cuda.is_available():
     generator.cuda()
     discriminator.cuda()
-    loss_func.cuda()
+    loss.cuda()
 
 optimizer_G = optim.Adam(generator.parameters(), lr=0.0002, betas = (0.444, 0.999))
 optimizer_D = optim.Adam(discriminator.parameters(), lr=0.0002, betas = (0.444, 0.999))
