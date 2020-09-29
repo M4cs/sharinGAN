@@ -16,7 +16,7 @@ I scraped bunch of images from different websites and then resized them to 128x1
 ![gif file](https://github.com/jaychandra6/sharinGAN/blob/master/static/final.png)
 
 # Why did I write this code?
-I started learning PyTorch from the past 10 days. Fortunately, I found a very intuitve playlist on YouTube by deeplizar. Honestly, those videos are dope. [Here's the link.](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) I wanted to test out with something interesting.
+I started learning PyTorch from the past 10 days. Fortunately, I found a very intuitve playlist on YouTube by deeplizard. Honestly, those videos are dope. [Here's the link.](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) I wanted to test out with something interesting.
 
 I found GANs when I was taking up Andrew Ng's Introduction to Machine Learning Course and wanted to implement it in PyTorch but, I don't know how to implement it in PyTorch. So, I searched for GAN implementation on YouTube and found a video by [Ayush Chaurasia](https://www.youtube.com/c/AyushChaurasia) where he implemented [Generative Adversarial Network](https://www.youtube.com/watch?v=aZpsxMZbG14) from the original research paper in PyTorch. His video is the only reason why this code is here and it's very similar to his code.
 
