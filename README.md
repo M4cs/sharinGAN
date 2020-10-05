@@ -7,7 +7,7 @@ A Generative Adversarial Network implementation that generates Sharingans. This 
 
 or just run the following command
 ```
-pip install -r requirements.txt
+pip install torch===1.6.0 torchvision===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
 
